@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_jwt_extended
+scikit-learn
+pandas
+numpy
+python-dotenv
+pdfplumber
